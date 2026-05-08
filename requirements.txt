@@ -1,0 +1,9 @@
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2
+matplotlib>=3.7
+tqdm>=4.65
+torch>=2.0
+rdkit-pypi>=2022.9.5
+pennylane>=0.34
+networkx>=3.0
