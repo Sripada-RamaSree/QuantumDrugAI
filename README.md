@@ -258,8 +258,6 @@ python main.py
 ```text id="f0m2mj"
 @article{QuantumDrugAI2026,
 title={QuantumDrugAI: Quantum–Classical Hybrid Learning Framework for Molecular Property Prediction and Molecule Optimization in Drug Discovery},
-author={Author Name},
-journal={Journal Name},
 year={2026}
 }
 ```
