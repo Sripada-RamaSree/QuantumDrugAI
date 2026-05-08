@@ -6,7 +6,7 @@
 
 ## Code Archive
 
-GitHub repository: https://github.com/YOUR_USERNAME/QuantumDrugAI
+GitHub repository: https://github.com/Sripada-RamaSree/QuantumDrugAI
 
 Permanent archived release (Zenodo DOI): https://doi.org/10.5281/zenodo.20082788
 # QuantumDrugAI
@@ -100,7 +100,7 @@ QuantumDrugAI/
 Clone the repository:
 
 ```text id="6d5azk"
-git clone https://github.com/your-username/QuantumDrugAI.git
+git clone https://github.com/Sripada-RamaSree/QuantumDrugAI
 cd QuantumDrugAI
 ```
 
