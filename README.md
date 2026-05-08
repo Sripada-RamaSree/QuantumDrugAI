@@ -1,3 +1,14 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20082788.svg)](https://doi.org/10.5281/zenodo.20082788)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+
+---
+
+## Code Archive
+
+GitHub repository: https://github.com/YOUR_USERNAME/QuantumDrugAI
+
+Permanent archived release (Zenodo DOI): https://doi.org/10.5281/zenodo.20082788
 # QuantumDrugAI
 
 ### Quantum–Classical Hybrid Learning Framework for Molecular Property Prediction and Molecule Optimization in Drug Discovery
